@@ -26,7 +26,11 @@ Then run the app in production mode:
 npm start
 ```
 
-Now you'll need to pick a host to deploy it to.
+[Dev](https://remix-contacts-six.vercel.app/)
+
+[UAT](https://remix-contacts-git-main-arvin-zojajis-projects-5a249b99.vercel.app/)
+
+[Prod](https://remix-contacts-alg041jo9-arvin-zojajis-projects-5a249b99.vercel.app/)
 
 ### DIY
 
